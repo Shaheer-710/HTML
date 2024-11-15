@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>R.P Enterprises </title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="aboutus.html">
+  <link rel="stylesheet" href="services.html">
+  <link rel="stylesheet" href="FAQ.html">
+</head>
+
+<body>
+  <!-- Navbat Start -->
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid" style="margin-top:0px;">
+      <h3 style="color: black;font-family: fantasy; font-size: 40px;" class="navbar-brand" href="#">R.P <span
+          style="color:orange ;font-family: fantasy;">.Enterprises</span></h3>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="aboutus.html">About us </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="services.html">Services</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="FAQ.html">FAQ</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- Navbar End -->
+  <!-- Cards Start -->
+  <img class="w-100" src="images\p3KpSWClvm.png" alt="">
+  <div class="container">
+    <h1 style="text-align: center ; margin-top: 100px;font-size: 50px;">Our Services</h1>
+  </div>
+  <div class="container" id="cards" style="margin-top: 150px;">
+    <div class="card" style="width: 18rem;">
+      <img
+        src="images\hvdgdfg.png"
+        class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Construction</h5>
+        <p class="card-text">Our core and focused area of the real estate and construction industry is to construct
+          giant projects like residential apartments etc. As a construction company , we splended in home construction
+          through innovative and affordable structures. </p>
+      </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+      <img src="images\IMG20200226144603@-740951672.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Real Estate</h5>
+        <p class="card-text">
+          We don't leave you aside, even if you are looking for a readymade property. Our built homes can grab your
+          attention straight away.. </p>
+
+      </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+      <img src="images\small-home-interiors-22-scaled.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Interior Designing</h5>
+        <p class="card-text">. Our team is updated with changes in interior design works and wleading materials markets.
+          This has led us to p
+          roduce the utmost impressive interior designs and solid material work to attract viewers.</p>
+
+      </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+      <img src="images\pricing-strategy-e1487688719978.jpeg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Pricings</h5>
+        <p class="card-text">We commit to planning, coordinating, budgeting, and arranging the work timetables by
+          supervising projects from the beginning to the end at real unrivaled prices.</p>
+
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
+  <!-- Cards End -->
+   <!-- Skill Section Start -->
+  <h1 style="margin-top: 55px;font-size: 50px; text-align: center;">Our Skills</h1>
+  <div id="progress2" class="progress" role="progressbar" aria-label=" Pricings" aria-valuenow="50" aria-valuemin="0"
+    aria-valuemax="100">
+
+    <div class="progress-bar bg-success" style="width: 50%">Architectural Designing 50%</div>
+  </div>
+  <div class="progress" role="progressbar" aria-label="" aria-valuenow="64" aria-valuemin="0" aria-valuemax="100">
+    <div class="progress-bar bg-info text-dark" style="width: 64%"> Interior Designing 64%</div>
+  </div>
+  <div class="progress" role="progressbar" aria-label="Warning example" aria-valuenow="75" aria-valuemin="0"
+    aria-valuemax="100">
+    <div class="progress-bar bg-warning text-dark" style="width: 75%"> Construction 75%</div>
+  </div>
+  <div class="progress" role="progressbar" aria-label="Danger example" aria-valuenow="100" aria-valuemin="0"
+    aria-valuemax="100">
+    <div class="progress-bar bg-danger" style="width: 100%">Real Estate 100%</div>
+  </div>
+   <!-- Skill Section end -->
+    <!-- About us Section Start -->
+  <div class="container">
+    <h1 style="margin-top: 105px;font-size: 50px; text-align: center;">Who are we</h1>
+
+    <p style="font-size: large;">**R.P. Enterprises** is a premier construction company with a proven track record of
+      excellence in the industry. We have been dedicated to delivering innovative, sustainable, and high-quality
+      building solutions that meet the evolving needs of our clients. Our team of skilled professionals possesses a deep
+      understanding of construction methodologies, industry standards, and emerging technologies, enabling us to
+      consistently exceed expectations.
+
+      R.P. Enterprises is a premier construction company with a proven track record of excellence in the industry. We
+      have been dedicated to delivering innovative, sustainable, and high-quality building solutions that meet the
+      evolving needs of our clients. Our team of skilled professionals possesses a deep understanding of construction
+      methodologies, industry standards, and emerging technologies, enabling us to consistently exceed expectations.
+
+      We offer a comprehensive range of services, including construction, readymade properties, and interior designing.
+      Our commitment to quality craftsmanship, attention to detail, and adherence to safety regulations ensures that
+      every project we undertake is completed to the highest standards.
+
+      As a socially responsible company, R.P. Enterprises is dedicated to contributing positively to the communities we
+      serve. We prioritize sustainable practices, minimize our environmental impact, and support local initiatives. Our
+      goal is to build lasting relationships with our clients, partners, and employees, fostering a collaborative and
+      mutually beneficial environment.
+
+      With a strong focus on innovation and customer satisfaction, we have successfully completed numerous projects of
+      varying sizes and complexities. Our portfolio showcases our ability to deliver exceptional results, meeting and
+      often exceeding client expectations. We are committed to staying at the forefront of the construction industry,
+      continuously adapting to new challenges and opportunities.
+
+      Our core values include:
+
+      Innovation: We strive to adopt the latest technologies and techniques to deliver cutting-edge solutions.
+      Quality: We are committed to delivering projects that meet or exceed industry standards and client expectations.
+      Sustainability: We prioritize sustainable practices to minimize our environmental impact and contribute to a
+      greener future.
+      Safety: We ensure a safe and healthy work environment for our employees and stakeholders.
+      Community: We are dedicated to giving back to the communities we serve and supporting local initiatives.
+      R.P. Enterprises is your trusted partner for all your construction needs. Contact us today to discuss your project
+      and learn more about how we can help you achieve your goals.
+    </p>
+  </div>
+  <h1 style="margin-top: 105px;font-size: 50px; text-align: center;">Why us not the others</h1>
+  <div style="display: flex; flex-wrap:wrap; justify-content: center;">
+    <img width="400" height="200"
+      src="images\customer-review-satisfaction-feedback-survey-with-wooden-home-house-concept-user-give-rating-service-experience-online-investment-service-leading-reputation-ranking-business_162459-2033.avif"
+      class="img-thumbnail" alt="...">
+    <img width="400" height="200" src="images\hvdgdfg.png" class="img-thumbnail" alt="...">
+    <img width="400" height="200" src="images\images.jpeg" class="img-thumbnail" alt="...">
+  </div>
+  <div class="container">
+    <p style="font-size: large;">R.P. Enterprises: Your Trusted Partner for Construction Excellence
+
+      With a proven track record of delivering exceptional construction projects, R.P. Enterprises is your go-to choice
+      for all your building needs. Our commitment to quality, safety, and client satisfaction sets us apart from the
+      competition. Our team of experienced professionals, combined with our innovative approach, ensures that every
+      project is executed efficiently and to the highest standards.
+
+      From initial planning to final delivery, we provide comprehensive construction services tailored to your specific
+      requirements. Our expertise spans a wide range of projects, including residential, commercial, and industrial
+      developments. We leverage the latest technologies and industry best practices to deliver projects that are not
+      only functional but also aesthetically pleasing and sustainable.
+
+      At R.P. Enterprises, we understand the importance of timely completion and transparent communication. Our
+      efficient project management processes and open lines of communication ensure that your project stays on schedule
+      and within budget. We pride ourselves on our ability to build strong relationships with our clients, fostering
+      trust and collaboration throughout the entire construction process.
+
+      When you choose R.P. Enterprises, you're choosing a partner that is dedicated to delivering excellence in every
+      aspect of construction. Our commitment to quality, safety, and client satisfaction is unwavering. Contact us today
+      to discuss your project and let us demonstrate why we are the preferred choice for construction services.
+
+    </p>
+  </div>
+
+  <h1 style="margin-top: 105px; font-size: 50px;text-align: center;">OUR AIMS</h1>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img width="400" height="200" src="images\imageval1.jpg" class="img-thumbnail" alt="...">
+    <img width="400" height="200" src="images\imagval2.jpg" class="img-thumbnail" alt="...">
+    <img width="400" height="200" src="images\imageval3.jpg" class="img-thumbnail" alt="...">
+  </div>
+  <div class="container">
+    <p style="font-size: large;">R.P. Enterprises: Building Real Estate Dreams
+
+      At R.P. Enterprises, we are passionate about transforming spaces into places that inspire and enrich lives. Our
+      mission is to be a leading real estate company, dedicated to providing exceptional value and service to our
+      clients. We strive to create sustainable, innovative, and aesthetically pleasing properties that meet the evolving
+      needs of the market.
+
+      We specialize in developing ready-made properties that offer a seamless living experience. From luxurious
+      apartments and stylish townhouses to modern commercial spaces, our portfolio caters to diverse preferences and
+      lifestyles. We meticulously plan and execute each project, ensuring that every detail is carefully considered to
+      deliver properties that exceed expectations.
+
+      In addition to our ready-made offerings, we also provide comprehensive construction services for clients with
+      specific requirements. Whether you're looking to build a dream home, renovate an existing property, or develop a
+      commercial complex, our team of experienced professionals is equipped to handle projects of any scale. We
+      collaborate closely with our clients to understand their vision and bring it to life, delivering customized
+      solutions that meet their unique needs.
+
+      R.P. Enterprises is committed to quality, integrity, and customer satisfaction. We believe in building
+      long-lasting relationships with our clients by providing exceptional service throughout the entire process. Our
+      team is dedicated to staying updated with the latest industry trends and technologies to ensure that our
+      properties are not only functional but also future-proof.  
+
+      As we continue to grow and expand, we remain steadfast in our commitment to creating exceptional real estate
+      experiences. We are driven by a passion for innovation and a desire to make a positive impact on the communities
+      we serve. Choose R.P. Enterprises as your trusted partner in real estate and let us help you build your dream.</p>
+  </div>
+   <!-- About us Section End -->
+    <!-- Footer Start -->
+  <footer>
+    <div class="row">
+      <div class="col">
+        <h1 style="color:orange ;"><span style="color: black;font-family: fantasy;">R.P </span> Enterprises</h1>
+        <p style="color: white;">
+          Contact our construction company, R.P. Enterprises, for your next project. We're committed to providing
+          high-quality services and excellent customer service. Contact us today to schedule a consultation.
+        </p>
+      </div>
+      <div class="col">
+        <H3 style="font-family: fantasy;">Contact <span>Us </span></H3>
+        <p style="color: white; font-family: Arial, Helvetica, sans-serif;">+92 321 9090532</p>
+        <p style="color: white; font-family: Arial, Helvetica, sans-serif;" class="email-id">junaidees88@gmail.com</p>
+      </div>
+      <div class="col">
+        <h3 style="font-family: fantasy; margin-left: 30px;">Links</h3>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="aboutus.html">About Us</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="FAQ.html">FAQ</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+    <!-- Footer End -->
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
