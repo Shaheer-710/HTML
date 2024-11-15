@@ -1,0 +1,35 @@
+<body onload="Next()">
+    <div class="container">
+        <h1 style="font-size: 30px; text-align: center; font-weight: bold; font-size: 30px; margin-bottom: 30px;">Quiz Question</h1>
+        
+        <div  class="main" style="text-align: center; "><h3 id="quesCount">Question</h3> <span id="currentQueCount"></span> <span style="font-size: 14px;" >/</span> <span style="font-size: 14px;" id="totalQueCount"></span></div>
+        
+        <div style="text-align: center;">
+            <p id="ques" style="margin-top: 10px; margin-bottom: 30px; font-size: 20px;"></p>
+            
+            <input class="options"t onclick="clicked()" type="radio" value="1"  name="options" id="">
+            <label id="opt1" style="margin-top: 10px; font-size: 20px;"></label>
+            <br>
+            <br>
+            
+            <input class="options"t onclick="clicked()" type="radio" value="2" name="options" id="">
+            <label id="opt2" style="margin-top: 10px; font-size: 20px;"></label>
+            
+            <br>
+            <br>
+            
+            <input class="options" onclick="clicked()" type="radio" value="3" name="options" id="">
+            <label id="opt3" style="margin-top: 10px; font-size: 20px;"></label>
+            
+            <br>
+            <br>
+            
+            <button disabled id="btn" onclick="Next()">Next</button>
+        </div>
+    </div>
+        
+</body>
+<script src="app.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</html>
