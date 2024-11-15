@@ -1,0 +1,91 @@
+<div
+style="background: linear-gradient(to right , #00093c , #2d0b00);height: 200px;margin-top: 30px;">
+<h1><span style="font-family: fantasy; color: orange;">Services</span></h1>
+<p style="text-align: center;width: 100%;">R.P. Enterprises, a visionary real estate company committed to delivering exceptional services and creating
+  extraordinary spaces.</p>
+</div>
+
+    <h3>Construction</h3>
+    <div style="display: flex; flex-wrap: wrap;"  >
+        <img src="images\IMG20200226144512@-1600749723.jpg" alt="">
+        <p style="color: black; ;">R.P. Enterprises is a renowned construction company that specializes in
+            delivering top-notch building solutions. Our team of highly skilled architects, engineers, and construction
+            professionals is dedicated to undertaking a wide range of projects, from modest residential homes to
+            expansive commercial complexes. We are committed to quality, timely delivery, and client satisfaction, which
+            sets us apart from the competition. We utilize innovative construction techniques and source premium
+            materials to ensure the highest standards are met. Whether it's a new construction, renovation, or interior
+            design project, R.P. Enterprises is your trusted partner for transforming spaces into functional and
+            aesthetically pleasing environments. Our expertise and dedication to excellence have earned us a reputation
+            as a leading construction company in the industry. We pride ourselves on our ability to bring your vision to
+            life, from the initial concept to the final touches. With R.P. Enterprises, you can rest assured that your
+            project is in good hands. Our team works closely with you throughout the entire process, providing expert
+            guidance and support to ensure that your project meets your specific needs and exceeds your expectations.
+
+            We believe in building strong relationships with our clients, based on trust, transparency, and open
+            communication. We are committed to delivering exceptional results and exceeding your expectations on every
+            project, no matter the size or complexity.   </p>
+    </div>
+    
+    <h3>Interior Designing</h3>
+    <div style="display:flex; flex-wrap: wrap; ">
+        <img  src="images\pexels-fotoaibe-1571460.jpg" class="img-fluid" alt="...">
+        <p style="color: black; "> R.P. Enterprises offers
+            comprehensive interior design services to transform your spaces into stunning
+            environments. Our team of skilled designers collaborates closely with you to understand your unique vision
+            and style, creating personalized designs that reflect your individual taste. From concept to completion, we
+            handle every aspect of the interior design process, including space planning, furniture selection, color
+            schemes, lighting design, and material selection. Our commitment to quality craftsmanship and attention to
+            detail ensures that your interior design project is executed to the highest standards.
+            We understand that your home or office is more than just a space; it's a reflection of your personality and
+            lifestyle. Our designers work diligently to create functional and aesthetically pleasing interiors that
+            enhance your overall well-being. Whether you're looking to renovate a single room or completely redesign
+            your entire space, R.P. Enterprises is your trusted partner for achieving your interior design goals.
+        </p>
+    </div>
+    <h3 >Pricings</h3>
+    <div  style=" display:flex; flex-wrap: wrap;">
+        <img src="images\pexels-pixabay-47344.jpg.crdownload" alt="">
+        <p style="color: black; ">
+            R.P. Enterprises offers competitive pricing for our comprehensive range of real estate services. We believe
+            in providing value for money             without compromising on quality. Our transparent pricing structure ensures that
+            you have a clear understanding of the costs involved in each project. We work closely with you to tailor our
+            services to your specific needs and budget, providing flexible payment plans to accommodate your financial
+            requirements. Whether you're buying, selling, renting, or seeking interior design services, R.P. Enterprises
+            offers affordable and cost-effective solutions to meet your real estate goals.  
+
+            Our team is dedicated to providing exceptional service at competitive rates. We understand the importance of
+            budgeting for real estate transactions, and we strive to offer transparent and competitive pricing. We
+            believe that quality real estate services should be accessible to everyone, and we work hard to ensure that
+            our pricing reflects this commitment.
+        </p>
+    </div>
+    <footer>
+        <div class="row">
+          <div class="col">
+            <h1 style="color:orange ;"><span style="color: black;font-family: fantasy;">R.P </span> Enterprices</h1>
+            <p style="color: white; width: 300px;">
+              Contact our construction company, R.P. Enterprises, for your next project. We're committed to providing
+              high-quality services and excellent customer service. Contact us today to schedule a consultation.
+            </p>
+          </div>
+          <div class="col">
+            <H3 style="font-family: fantasy;">Contact <span>Us </span></H3>
+            <p style="color: white; font-family: Arial, Helvetica, sans-serif;width: 300px">+92 321 9090532</h5>
+            <p style="color: white; font-family: Arial, Helvetica, sans-serif;width: 300px" class="email-id">junaidees88@gmail.com</h5>
+          </div>
+          <div class="col">
+            <h3 style="font-family: fantasy; margin-left: 30px;">Links</h3>
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="aboutus.html">About Us</a></li>
+              <li><a href="services.html">Services</a></li>
+              <li><a href="FAQ.html">FAQ</a></li>
+            </ul>
+          </div>
+        </div>
+      </footer>
+    
+</body>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+
+</html>
